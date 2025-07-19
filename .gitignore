@@ -1,0 +1,12 @@
+*.*
+.*
+*
+!*.h
+!*.cpp
+!*.cu
+!CMakeLists.txt
+!/include/
+!/gemm/
+!.gitignore
+!README.md
+CMakeFiles/
